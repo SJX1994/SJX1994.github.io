@@ -31,10 +31,6 @@ The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. 
 Encrypted text (Key = "233"):<br>
 <p class="encrypted" id="elKwQPCOLF4w86wRItKMqge8qDO6fU80wbdANG6AnS8kgT8qAqGFC5VkVexu+4RBhBMUWwdkzEVo8HAKUT">Encrypted Text! Please enter correct token.</p>
 
-Encrypted text (Key = "444"):<br>
-<p class="encrypted" id="elKwQPCOLF4w86wRItKMqge8qDO6fU80wbdANG6AnS8kgT8qAqGFC5VkVexu+4RBhBMUWwdkzEVo8HAKUT">Encrypted Text! Please enter correct token.</p>
-
-
 ### Font style and link
 * normal
 * **bold**

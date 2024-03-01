@@ -7,18 +7,17 @@ var c = document.getElementById("c");
 var ctx = c.getContext("2d");
 c.height = window.innerHeight;
 c.width = window.innerWidth;
-
 var txts = "{{site.bgtext}}";
 txts = txts.split("");
-var font_size = 21;
+var font_size = 12;
 var columns = c.width / font_size;
 var drops = [];
 for (var x = 0; x < columns; x++) drops[x] = 1;
 
 function draw() {
-  ctx.fillStyle = "rgba(27, 36, 69, 0.42)";
+  ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
   ctx.fillRect(0, 0, c.width, c.height);
-  ctx.fillStyle = "#3e3d59";
+  ctx.fillStyle = "#490";
   ctx.font = font_size + "px arial";
   for (var i = 0; i < drops.length; i++) {
     var text = txts[Math.floor(Math.random() * txts.length)];
@@ -27,5 +26,5 @@ function draw() {
     drops[i]++;
   }
 }
-setInterval(draw, 30);
+setInterval(draw, 20);
 </script>

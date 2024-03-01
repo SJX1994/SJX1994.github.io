@@ -12,7 +12,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# Ultimate Cell Studio - HOMEPAGE
+# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
 
 <br>
 > pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.

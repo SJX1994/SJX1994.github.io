@@ -77,7 +77,7 @@ function apply_token() {
             try {
                 var txt = sjcl.json.decrypt(pwd, ct);
             } catch (e) {
-                alert("Try again :)");
+                alert("Invalid Access Token!");
                 return;
             }
             elem_clct[acc].innerHTML = txt;

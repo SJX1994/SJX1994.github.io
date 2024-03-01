@@ -1,10 +1,10 @@
 // global variables
-$color-primary: rgb(245, 220, 36);//rgb(84, 235, 24);
-$color-secondary: rgb(217, 238, 240);
+$color-primary: rgb(84, 235, 24);
+$color-secondary: rgb(240, 188, 18);
 $color-blockquote: #e0ac3c;
 $color-warning: rgb(238, 63, 40);
-$color-bg: rgb(27, 36, 69);
-$color-postbg: rgb(92, 67, 152);
+$color-bg: rgb(24, 17, 17);
+$color-postbg: rgb(0, 0, 0);
 $image-background: none;
 
 // font size
@@ -50,5 +50,5 @@ $class: rgb(230, 126, 29);
 $built-in: #be273b;
 $global: #52c96c;
 $error: $color-warning;
-$code-background: rgb(27, 36, 69);
+$code-background: rgb(19, 16, 16);
 $error-background: #250f0f;
