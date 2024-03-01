@@ -113,7 +113,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   
-gems: [jekyll-mermaid]
+# gems: [jekyll-mermaid]
 
 # 8. Others
 # Cross-Origin Resource Sharing header
