@@ -1,0 +1,6 @@
+Hello World
+- create a new web:
+  - jekyllrb.com
+- run the server:
+  - bundle exec jekyll serve
+  - bundle exec jekyll serve --drafts
