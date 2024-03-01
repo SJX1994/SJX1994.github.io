@@ -1,3 +1,0 @@
-
-![Logo](/assets/Logo.png)
-
