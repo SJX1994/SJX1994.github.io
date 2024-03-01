@@ -1,12 +1,12 @@
 # 1. Site Settings
-title               : pRoJEct-VeXEd
-owner               : "DeerRIDER"
+title               : UltimateCell
+owner               : "SJX1994"
 url                : "https://sjx1994.github.io/"
 baseurl            : ""
 permalink           : /:title/
 description         : "A hacker-style note-keeping website template."
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
+statement           : "Designed by SJX1994, All Rights Reserved"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
