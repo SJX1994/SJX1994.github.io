@@ -86,7 +86,7 @@ img {
   max-width: 95%;
   margin: 0 auto; // image center align
   display: block; // image center align
-  background-color: whitesmoke;
+  background-color: transparent!important;//rgb(120, 84, 84);
 }
 ol {
   padding: 0 0 0 1.42em;

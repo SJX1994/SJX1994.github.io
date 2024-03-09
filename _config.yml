@@ -84,17 +84,17 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "https://github.com/akiritsu/pRoJEct-VeXEd" 
-linkedin            : 
-github              : "just-test" 
-gitlab              : 
-website             : "https://github.com/akiritsu/pRoJEct-VeXEd"
-twitter             : "just-test"
-facebook            : "just-test"
-instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
-weibo               :
+email               : "shenjiexiang1994@gmail.com" 
+# linkedin            : 
+github              : "SJX1994" 
+# gitlab              : 
+website             : "https://github.com/SJX1994"
+twitter             : "SJX1994"
+# facebook            : "just-test"
+# instagram           : 
+youtube             : "@jiexiangshen5839"
+steam               : "76561198064165551"
+# weibo               :
       
 # 6. Where things are
 source              : .
@@ -120,3 +120,5 @@ gems: [jekyll-mermaid]
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
+
+

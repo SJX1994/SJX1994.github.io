@@ -12,169 +12,60 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
+<img src="{{site.url}}{{site.baseurl}}/src/assets/img/Logo.png" background-color="transparent" width="450"/>
 
-<br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
-
-## Features
-
-- Highly customizable with user-friendly hacker-like design.
-- Easy to gather your notes or portfolios with multiple collection design.
-- Supports formula insertion with `MathJax`.
-
-$$
-\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
-\mathbf{i} & \mathbf{j} & \mathbf{k} \\
-\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
-\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
-\end{vmatrix}
-$$
-
-- Supports code highlight with `Rouge`.
-
-```python
-arr = [10, 7, 8, 9, 1, 5]
-n = len(arr)
-quickSort(arr,0,n-1)
-print ("Sorted array is:")
-for i in range(n):
-    print ("%d" %arr[i]),
-```
-
-- Decrypt and encrypt text (access token: 233):
-  - secret msg example:
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
-
-## Download and Documentation
-
-[**pRoJEct VeXEd README (Github)**](https://github.com/akiritsu/pRoJEct-VeXEd)
-
-[Download ZIP files](https://codeload.github.com/akiritsu/pRoJEct-VeXEd/zip/master)
-
-[中文自述及使用教程](https://akiritsu.github.io/pRoJEct-VeXEd/readme-zhcn/)
-
-## More Samples
-
-### Font style and link
-
-normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](www.google.com)
-
-### List
-
-1. ordered list item 1
-   1. sublist
-      1. subsublist
-
-- unordered list
-  - sublist
-
-### Table
-
-| Date         | Version   | Size    | Comment                |
-| :----------- | :-------- | :------ | :--------------------- |
-| Nov 11, 2018 | v2.14c    | 240 kb  | No irreversible damage |
-| Nov 12, 2018 | v2.14c    | 1230 kb | No irreversible damage |
-| Nov 13, 2018 | v2.14c    | 12kb    | No irreversible damage |
-| Nov 15, 2018 | v1.99 LTS | 4kb     | Irreversible damage    |
-
-### Diagram and Chart
-
-#### Pie Chart
-
-```mermaid
-pie
-    title Pie Chart
-    "Dogs" : 36
-    "Cats" : 85
-    "Rats" : 150
-    "Pheonix" : 120
-    "Elephant" : 330 
-```
-
-#### Sequence Diagram
-
-```mermaid
-sequenceDiagram
-    Alice->>Bob: Hello Bob, how are you?
-    alt is sick
-    Bob->>Alice: Not so good :(
-    else is well
-    Bob->>Alice: Feeling fresh like a daisy
-    end
-    opt Extra response
-    Bob->>Alice: Thanks for asking
-    end
-```
-
-#### Flow Chart
-
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
-
-### More Texts
-
-Λορεμ ιπσθμ δολορ σιτ αμετ, νονθμυ δολορεσ πρινcιπεσ εαμ αν, ρεγιονε σθσcιπιτ αccθσατα νε πρι, εα εαμ γραεcο μελιθσ αccθσαμ. Vολθπτθα δισσεντιασ τε ηασ, τε πρι σθασ ηαρθμ αδιπισcινγ. Qθο ατ ιθστο ταcιματεσ, μελ εραντ ρεπθδιανδαε ετ. Ετ τιμεαμ cονcεπταμ αccομμοδαρε νεc, ιδ σεα μελιορε λθπτατθμ. Αδ περσεcθτι cοντεντιονεσ θσθ. Ηομερο νοστρο θταμθρ εαμ εξ.
-
-Νεc ιδ λεγερε ρεγιονε διcερετ, vιμ εθ νιβη ιριθρε cορπορα. Αδ vιξ διcο νατθμ εσσεντ. Ιλλθδ αλιqθιδ ει σιτ, δοcτθσ vιδισσε δετραξιτ αν μεα. Ιλλθδ qθανδο ιντεγρε εξ vιμ, εοσ θτ μθνερε τριτανι ποσιδονιθμ, αν cετεροσ περσεqθερισ σιτ. Λατινε δισcερε vοcιβθσ πρι νο, vιμ cθ νοστρο μαλθισσετ vολθπταρια.
-
-### More Codes
-
-```python
-# Python program for implementation of Quicksort Sort
-
-# This function takes last element as pivot, places
-# the pivot element at its correct position in sorted
-# array, and places all smaller (smaller than pivot)
-# to left of pivot and all greater elements to right
-# of pivot
-def partition(arr,low,high):
-    i = ( low-1 )         # index of smaller element
-    pivot = arr[high]     # pivot
-
-    for j in range(low , high):
-
-        # If current element is smaller than or
-        # equal to pivot
-        if   arr[j] <= pivot:
-
-            # increment index of smaller element
-            i = i+1
-            arr[i],arr[j] = arr[j],arr[i]
-
-    arr[i+1],arr[high] = arr[high],arr[i+1]
-    return ( i+1 )
-
-# The main function that implements QuickSort
-# arr[] --> Array to be sorted,
-# low  --> Starting index,
-# high  --> Ending index
-
-# Function to do Quick sort
-def quickSort(arr,low,high):
-    if low < high:
-
-        # pi is partitioning index, arr[p] is now
-        # at right place
-        pi = partition(arr,low,high)
-
-        # Separately sort elements before
-        # partition and after partition
-        quickSort(arr, low, pi-1)
-        quickSort(arr, pi+1, high)
-
-# Driver code to test above
-arr = [10, 7, 8, 9, 1, 5]
-n = len(arr)
-quickSort(arr,0,n-1)
-print ("Sorted array is:")
-for i in range(n):
-    print ("%d" %arr[i]),
-
-# This code is contributed by Mohit Kumra
-```
+# **<< Kill Boredom >>**
+<center>
+In your mind, such a scene pops up. <br>
+A seasoned warrior, who seems to have been through countless battles, earnestly says to you, <br></center>
+"<br>They are so objective, so trustworthy. <br>
+They are the materials that compose the dragon-slaying sword. <br>
+Listen to their language, <br>
+abstract it into thoughts, and then condense the thoughts into a sharp blade.<br>
+Then you can defeat him."<br><br>
+<center>
+You recall a conversation with the veteran
+—a person with simple yet gorgeous makeup,
+a well-nourished figure,
+and a carefree appearance. <br>
+He calmly tells you, <br></center>
+"<br>He is my enemy and yours as well.<br>
+He is looks harmless, expressionless,<br>
+He is like a friend who will always accompany you."<br><br>
+<center>
+He gazes into the distance, furrowing his brows slightly, and says, <br></center>
+"<br>He is called 'Boredom,' <br>
+my lifelong archenemy. <br>
+He acts arbitrarily and scorns everything about me."<br><br>
+<center>
+At this moment, he looks at his calloused and scarred hand, muttering to himself, <br></center>
+"<br>Perhaps he just wants to attach himself to me. <br>
+Under certain conditions, he would unhesitatingly devour my mind.<br> Sometimes I don't even think it's him doing it."<br><br>
+<center>
+The veteran slowly takes out a heavy cloth bag from his waist, filled with gold bars, and places it on the table, saying,<br></center>
+"<br>I have plenty of experience in resisting him. <br>
+I was tried to respond to him with material possessions and pleasure.<br>
+After receiving them, he would indeed leave satisfied."<br><br>
+<center>
+Suddenly, the veteran lifts his head and turns to you, locking eyes with you in a fiery gaze: <br></center>
+"<br>Friend, you cannot silently allow him to do this without any ambition!<br>
+Some thoughts endure for thousands of years in various forms of expression,<br>
+do you know why?"<br><br>
+<center>
+The veteran slowly draws a beautiful sword from a plain scabbard and suddenly thrusts it into the gold bars on the table, piercing through multiple bars and directly into the table. <br></center>
+"<br>When you hear his mockery and groans, it means that carefree days have returned!"<br><br>
+<center>
+You stare at the sword with a puzzled expression, and the veteran smiles,<br></center>
+"<br>Do you want to borrow my sword?<br>
+No, I won't lend it to you. <br>
+It's not because I'm reluctant, but because everyone must confront their own 'Boredom.' <br>
+You must face your own war."<br><br>
+<center>
+Seeing your disappointed expression, the veteran looks up at the sky and says,<br></center>
+"<br>But I will never be stingy with using my thoughts to slowly solidify into the material for the sword."<br><br>
+<center>
+Suddenly, a fierce wind blows outside, pushing open the door. <br>
+The veteran slowly gets up, pats your shoulder, and says,<br> </center>
+"<br>It won't be long before he comes to find you. <br>
+If you don't want to empty your belongings and become completely enslaved by him, 
+<br>**go and forge your sword.**"<br>
