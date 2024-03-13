@@ -14,7 +14,7 @@ permalink: /
 
 <img src="{{site.url}}{{site.baseurl}}/src/assets/img/Logo.png" background-color="transparent" width="450"/>
 
-# **<< Kill Boredom >>**
+# You stayed quietly at home alone.
 <center>
 In your mind, such a scene pops up. <br>
 A seasoned warrior, who seems to have been through countless battles, earnestly says to you, <br></center>
@@ -34,7 +34,7 @@ He is looks harmless, expressionless,<br>
 He is like a friend who will always accompany you."<br><br>
 <center>
 He gazes into the distance, furrowing his brows slightly, and says, <br></center>
-"<br>He is called 'Boredom,' <br>
+"<br>He is called 'Boredom', <br>
 my lifelong archenemy. <br>
 He acts arbitrarily and scorns everything about me."<br><br>
 <center>
@@ -58,7 +58,7 @@ The veteran slowly draws a beautiful sword from a plain scabbard and suddenly th
 You stare at the sword with a puzzled expression, and the veteran smiles,<br></center>
 "<br>Do you want to borrow my sword?<br>
 No, I won't lend it to you. <br>
-It's not because I'm reluctant, but because everyone must confront their own 'Boredom.' <br>
+It's not because I'm reluctant, but because everyone must confront their own 'Boredom'. <br>
 You must face your own war."<br><br>
 <center>
 Seeing your disappointed expression, the veteran looks up at the sky and says,<br></center>
