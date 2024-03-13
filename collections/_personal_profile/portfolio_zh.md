@@ -202,7 +202,7 @@ pie
 
 <center>
 <iframe width="252" height="448" src="https://www.youtube.com/embed/C0MlOpR76c0?si=X0nzo1ONXymiXfMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="252" height="448" src="//player.bilibili.com/player.html?bvid=BV1Sm411d7Ys&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="252" height="448" src="//player.bilibili.com/player.html?bvid=BV1Sm411d7Ys&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center>
 <br>
 <br>
@@ -274,7 +274,7 @@ pie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJZb0IPFtaw?si=ww21XIKOUbz3MNy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 <center>
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1mx421y7Mz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1mx421y7Mz&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center><br><br>
 <center>你盯着屏幕，心里暗自想道：<br>这就是 嫌犯 创造的异世界入口吗？<br>根据你的经验，即便只是从游戏的 核心机制 来看依然存在很多问题，你开始思索问题到底出在哪里。<br></center>
 <center>你的思绪 被助手的轻轻的咳嗽声打断了，看来助手已经等了许久。<br>你便示意他继续。</center>

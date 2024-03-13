@@ -197,7 +197,7 @@ The match-three variant has been released, but has not gained much attention.”
 
 <center>
 <iframe width="252" height="448" src="https://www.youtube.com/embed/C0MlOpR76c0?si=X0nzo1ONXymiXfMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="252" height="448" src="//player.bilibili.com/player.html?bvid=BV1Sm411d7Ys&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="252" height="448" src="//player.bilibili.com/player.html?bvid=BV1Sm411d7Ys&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center>
 
 <br>
@@ -272,7 +272,7 @@ The match-three variant has been released, but has not gained much attention.”
 </center>
 
 <center>
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1mx421y7Mz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1mx421y7Mz&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center><br>
 
 <center>You stared at the screen, silently thinking to yourself:<br>
