@@ -196,8 +196,8 @@ The match-three variant has been released, but has not gained much attention.”
 <center>You press the space bar on the computer keyboard, causing two video playback windows to pop up. <br> Without waiting for the assistant to explain, you select a node with faster internet speed and drag the progress bar:<br></center>
 
 <center>
-<iframe width="252" height="448" src="https://www.youtube.com/embed/kIj-3Mhb6DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="252" height="448" src="//player.bilibili.com/player.html?aid=836851620&bvid=BV1Pg4y1e7TD&cid=1421837931&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="252" height="448" src="https://www.youtube.com/embed/C0MlOpR76c0?si=X0nzo1ONXymiXfMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="252" height="448" src="//player.bilibili.com/player.html?bvid=BV1Sm411d7Ys&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center>
 
 <br>
@@ -266,11 +266,19 @@ The match-three variant has been released, but has not gained much attention.”
     "
 ```
 <center>You pressed the spacebar on the computer keyboard and two video playback windows popped up.<br></center>
+
 <center>
-<iframe width="450" height="237" src="https://www.youtube.com/embed/ashP4oeN3Fo?si=joBeWk63O98Q94yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="450" height="237" src="//player.bilibili.com/player.html?aid=918708833&bvid=BV13u4y1j7GK&cid=1339454117&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</center><br><br>
-<center>You stared at the screen, silently thinking to yourself:<br>Is this the **alternate world** entrance created by the suspect? <br>Based on your experience, there are still many issues even when looking at the core mechanics of the game, and you began to contemplate where the problem lies.<br></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJZb0IPFtaw?si=ww21XIKOUbz3MNy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<center>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1mx421y7Mz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</center><br>
+
+<center>You stared at the screen, silently thinking to yourself:<br>
+Is this the 'alternate world' entrance created by the suspect?<br>
+Based on your experience, there are still many issues even when looking at the core mechanics of the game, and you began to contemplate where the problem lies.<br></center>
+
 <center>Your thoughts were interrupted by the assistant's quiet cough, indicating that the assistant had been waiting for a while. <br>You gestured for him to continue.</center>
 
 ## ~~Suspect’s work experience~~
@@ -339,4 +347,4 @@ However, from the recent investigation into the suspect's financial transactions
 With his unwavering dedication, it seems that someday he will succeed in opening the gateway to **alternate world**.<br>
 That's all the information I have on his investigation.<br>Is there anything else I can help you with?”<br>
 
-<center>You shook your head.<br>The assistant then stood up, bowed to you, and left the office.<br>You stared at the documents he left behind, <br>contemplating the suspect you had constructed in your mind.</center>
+<center>You shook your head.<br>The assistant then stood up, bowed to you, and left the office.<br>You stared at the documents he left behind, <br>the suspect you had constructed in your mind.<br>You looking thoughtful.</center>

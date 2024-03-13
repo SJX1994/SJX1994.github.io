@@ -201,10 +201,9 @@ pie
 <center>你点击了电脑键盘上的空格键，弹出了两个视频播放窗口，<br>你不等助手解释，选择了一个网速更快的节点，并拉动进度条：<br></center>
 
 <center>
-<iframe width="252" height="448" src="https://www.youtube.com/embed/kIj-3Mhb6DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="252" height="448" src="//player.bilibili.com/player.html?aid=836851620&bvid=BV1Pg4y1e7TD&cid=1421837931&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="252" height="448" src="https://www.youtube.com/embed/C0MlOpR76c0?si=X0nzo1ONXymiXfMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="252" height="448" src="//player.bilibili.com/player.html?bvid=BV1Sm411d7Ys&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center>
-
 <br>
 <br>
 <center>你大概扫了一眼，又点击了一下空格键。<br>展示在你面前的是第二款游戏的简介：</center>
@@ -270,9 +269,12 @@ pie
     "
 ```
 <center>你点击了电脑键盘上的空格键，弹出了两个视频播放窗口：<br></center>
+
 <center>
-<iframe width="450" height="237" src="https://www.youtube.com/embed/ashP4oeN3Fo?si=joBeWk63O98Q94yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="450" height="237" src="//player.bilibili.com/player.html?aid=918708833&bvid=BV13u4y1j7GK&cid=1339454117&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJZb0IPFtaw?si=ww21XIKOUbz3MNy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+<center>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1mx421y7Mz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </center><br><br>
 <center>你盯着屏幕，心里暗自想道：<br>这就是 嫌犯 创造的异世界入口吗？<br>根据你的经验，即便只是从游戏的 核心机制 来看依然存在很多问题，你开始思索问题到底出在哪里。<br></center>
 <center>你的思绪 被助手的轻轻的咳嗽声打断了，看来助手已经等了许久。<br>你便示意他继续。</center>
@@ -343,4 +345,4 @@ pie
 照他这么努力，异世界的入口迟早有一天会被他打开。<br>
 我对他的调查资料目前就这么多，<br>您还有什么需要我帮忙的吗？”<br>
 
-<center>你摇了摇头。<br>助手便站起身，向你鞠躬后就离开办公室了。<br>你盯着他留下的文件，<br>思考着你在脑海中构建的嫌疑人。</center>
+<center>你摇了摇头。<br>助手便站起身，向你鞠躬后就离开办公室了。<br>你盯着他留下的文件，<br>脑海中构建的嫌疑人。<br>若有所思。</center>
